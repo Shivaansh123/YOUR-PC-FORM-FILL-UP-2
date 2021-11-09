@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    text-size-adjust: 30px;
+    background-color: blueviolet;
+    
+}
+
+form{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(170, 170, 22);
+    border-radius: 30px;
+    margin-left: 500px ;
+    margin-top: 50px;
+} 
+button{
+    color: black;
+    
+}
